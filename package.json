@@ -1,0 +1,22 @@
+{
+  "name": "scm",
+  "version": "1.0.0",
+  "description": "scm repo node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JassTxM/SCM_Repo_1.git"
+  },
+  "author": "jaskirat singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JassTxM/SCM_Repo_1/issues"
+  },
+  "homepage": "https://github.com/JassTxM/SCM_Repo_1#readme",
+  "dependencies": {
+    "axios": "^1.8.3"
+  }
+}
