@@ -848,3 +848,9 @@
 // }
 
 // extern int a=90;
+
+
+
+/* Changes by Jaijit Singh 2410990411
+These are the changes made for SCM Task 1.2
+This is done on 20th March, 2025 */
