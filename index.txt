@@ -1,3 +1,2 @@
-Hi this is a test of git push.
-these are the changes done
-These are the new changes after cloning the repo on 10 March 2025
+this is done for scm task 1.2
+done by hirdepal singh on 24 march 2025
