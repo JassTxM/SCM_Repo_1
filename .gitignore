@@ -1,5 +1,11 @@
+*.zip
 *.log
-
-/node_modules
-
+*.exe
+*.mp4
 *.env
+/node_modules
+/dist
+/build
+/coverage
+/.vscode
+/.idea
