@@ -22,7 +22,7 @@ This repository is a practical project for Source Code Management (SCM). It cont
 ### For C and Python files:
 1. Ensure you have a C compiler (like GCC) installed.
 2. Install Python (if not already installed) to run Python scripts.
-
+3. Ensure that you have installed an editor like VS Code
 ## Usage
 
 - Run the Python script:
