@@ -1,0 +1,3 @@
+[submodule "submodules/SCM_Practical"]
+	path = submodules/SCM_Practical
+	url = https://github.com/JassTxM/SCM_Practical.git
